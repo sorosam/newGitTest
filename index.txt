@@ -1,7 +1,0 @@
-# newGitTest 
-
-Hello World
-
-Good bye then!
-
-test of user name and pw.
