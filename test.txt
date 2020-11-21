@@ -1,0 +1,2 @@
+This is new file in for testing of merge branch.
+Just update something in the branch b1.
