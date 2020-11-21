@@ -1,6 +1,0 @@
-# newGitTest 
-
-Hello World
-
-Good bye then!
-This is a new test of merge.
